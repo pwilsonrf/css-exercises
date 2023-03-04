@@ -1,0 +1,23 @@
+
+
+
+#blue-text{
+    color:rgb(76, 76, 216);
+    font-size: 36px;
+}
+
+#font-3{
+    font-size: 24px;
+}
+
+#green-bold{
+    background-color:rgb(117, 168, 117);
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.odd-numbers{
+    background-color:rgb(245, 204, 211);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
